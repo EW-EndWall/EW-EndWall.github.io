@@ -1,0 +1,57 @@
+[
+  {
+    "lang": "en",
+    "title": "< PLANNED />",
+    "msg": "This service is still in the planning stage.."
+  },
+  {
+    "lang": "tr",
+    "title": "< PLANLANMIS />",
+    "msg": "Bu servis henüz planlama aşamasında.."
+  },
+  {
+    "lang": "zh",
+    "title": "< 计划中 />",
+    "msg": "此服务仍处于规划阶段。"
+  },
+  {
+    "lang": "ar",
+    "title": "< مخطط />",
+    "msg": "هذه الخدمة لا تزال في مرحلة التخطيط.."
+  },
+  {
+    "lang": "ru",
+    "title": "< ЗАПЛАНИРОВАНО />",
+    "msg": "Эта услуга все еще находится в стадии планирования.."
+  },
+  {
+    "lang": "ja",
+    "title": "< 計画中 />",
+    "msg": "このサービスはまだ計画段階です。"
+  },
+  {
+    "lang": "pt",
+    "title": "< PLANEJADO />",
+    "msg": "Este serviço ainda está na fase de planejamento.."
+  },
+  {
+    "lang": "hi",
+    "title": "< योजनाबद्ध />",
+    "msg": "यह सेवा अभी योजना चरण में है.."
+  },
+  {
+    "lang": "es",
+    "title": "< PLANIFICADO />",
+    "msg": "Este servicio aún se encuentra en la etapa de planificación.."
+  },
+  {
+    "lang": "fr",
+    "title": "< PLANIFIÉ />",
+    "msg": "Ce service est encore à l'étape de la planification.."
+  },
+  {
+    "lang": "de",
+    "title": "< GEPLANT />",
+    "msg": "Dieser Service befindet sich noch in der Planungsphase.."
+  }
+]
